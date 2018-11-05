@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Lab18 LinkedList\Lab18 LinkedList\bin\Debug\Lab18 LinkedList.pdb
+C:\Users\user\source\repos\Lab18 LinkedList\Lab18 LinkedList\obj\Debug\Lab18 LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lab18 LinkedList\Lab18 LinkedList\obj\Debug\Lab18 LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab18 LinkedList\Lab18 LinkedList\obj\Debug\Lab18 LinkedList.pdb
+C:\Users\user\source\repos\Lab18 LinkedList\Lab18 LinkedList\bin\Debug\Lab18 LinkedList.exe
+C:\Users\user\source\repos\Lab18 LinkedList\Lab18 LinkedList\obj\Debug\Lab18 LinkedList.exe
